@@ -9,6 +9,6 @@ while true; do
   fi
   echo -e "# HELP britain_still_in_the_eu Is Britain still in the EU"
   echo -e "# TYPE britain_still_in_the_eu gauge"
-  echo -e "britain_still_in_the_eu $well"
-  ) | nc -lp 29319
+  echo -e "britain_still_in_the_eu $well\n"
+  ) | nc -q 1 -lp 29319
 done
