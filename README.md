@@ -1,10 +1,12 @@
 # brexit_exporter
 Provides a way to visualize Brexit status in Prometheus
 
-```curl localhost:29319
+```
+curl localhost:29319
 # HELP britain_still_in_the_eu Is Britain still in the EU
 # TYPE britain_still_in_the_eu gauge
-britain_still_in_the_eu 1```
+britain_still_in_the_eu 1
+```
 
 ## dependencies
 
