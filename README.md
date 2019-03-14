@@ -18,9 +18,9 @@ https://cloud.docker.com/repository/docker/pawadski/brexit_exporter
 
 ## install and run
 
-Use Docker, really
--or-
-Put brexit_exporter somewhere and run it
+Use Docker, really   
+-or-   
+Put brexit_exporter somewhere and run it   
 
 # bugs
 
