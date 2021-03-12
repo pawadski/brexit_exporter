@@ -26,3 +26,4 @@ Put brexit_exporter somewhere and run it
 # bugs
 
 No multiprocessing. If you are checking brexit status an unhealthy amount of times you may see lag.
+test
